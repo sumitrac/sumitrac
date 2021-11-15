@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Sumitra, a SWE intern at Redfin and a student at Ada Developers Academy(C15. I'm a non-profit professional transitioning career in software development.
+
 <!--
 **sumitrac/sumitrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
