@@ -6,7 +6,7 @@ I'm Sumitra, a full stack developer looking to contribute and motivated to write
 Languages: Python, Flask, JavaScript, React, HTML, CSS, Bootstrap, Java, SQL
 Tools: Git, VS Code, IntelliJ, Firebase, PostgreSQL, Postman, Heroku, Test-Driven Development, Jira
 
-More detail of my experience 
+
 
 <!--
 **sumitrac/sumitrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
