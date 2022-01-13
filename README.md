@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Sumitra, a Software Engineer intern at Redfin and a full-stack software development student at Ada Developers Academy(C15). I'm a non-profit professional transitioning career in software development.
+I'm Sumitra, a full stack developer looking to contribute and motivated to write clean and efficient code. I am experienced in object-oriented programming, developing, testing, debugging code, designing APIs and user interfaces. 
+
+Tech Stack: 
+Languages: Python, Flask, JavaScript, React, HTML, CSS, Bootstrap, Java, SQL
+Tools: Git, VS Code, IntelliJ, Firebase, PostgreSQL, Postman, Heroku, Test-Driven Development, Jira
+
+More detail of my experience 
 
 <!--
 **sumitrac/sumitrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
