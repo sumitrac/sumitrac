@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Sumitra, a full stack developer looking to contribute and motivated to write clean and efficient code. I am experienced in object-oriented programming, developing, testing, debugging code, designing APIs and user interfaces. 
 
-# Tech Stack: 
+### Tech Stack: 
 Languages: Python, Flask, JavaScript, React, HTML, CSS, Bootstrap, Java, SQL
 Tools: Git, VS Code, IntelliJ, Firebase, PostgreSQL, Postman, Heroku, Test-Driven Development, Jira
 
