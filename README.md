@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Sumitra, a full stack developer looking to contribute and motivated to write clean and efficient code. I am experienced in object-oriented programming, developing, testing, debugging code, designing APIs and user interfaces. 
 
