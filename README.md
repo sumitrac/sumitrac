@@ -8,7 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-looking to contribute and motivated to write clean and efficient code. I am experienced in object-oriented programming, developing, testing, debugging code, designing APIs and user interfaces.
+Motivated software engineer dedicated to writing clean, efficient, and maintainable code. Experienced in object-oriented programming, API design, and user interface development, with a strong focus on testing and debugging for robust applications. Always eager to contribute, learn, and collaborate on innovative projects.
+
 
 ### Skills
 
